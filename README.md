@@ -1,5 +1,5 @@
 # self_project
-self project
+Crossword Puzzle solver
 
 Breakdown of files:
 
@@ -17,6 +17,6 @@ Folder: 3.5_fine_tuning, Contents: 3.5_testing_file.ipynb, candidate_list.ipynb,
 
 Folder: analysis, Contents: letter_accuracy_by_day.png, letter_accuracy_by_year.png, modified_accuracies_df.csv, solutions_dataset.csv, updated_analysis.ipynb, visualize_solutions.ipynb, word_by_dow.png, word_by_year.png Summary: The outputted files from the testing run and accompanying graphs used in the report
 
-<img width="1440" alt="Screenshot 2024-06-06 at 2 31 32 PM" >
+<img width="1440" alt="Screenshot 2025-07-06 at 2 31 32 PM" >
 
 
